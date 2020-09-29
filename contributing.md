@@ -1,3 +1,3 @@
 # Contributing guidelines
 
-Each repository in DataS-DHSC should contain a README file and a QA_log. A blank QA_log can be found here: https://github.com/DataS-DHSC/.github
+Each repository in DataS-DHSC should contain a README file and a QA log. QA templates can be found here: https://dhexchange.kahootz.com/connect.ti/Testanalysts/view?objectId=13590448
