@@ -1,3 +1,10 @@
+# Contributing guidelines
+
+Each repository in DataS-DHSC should contain a README file and a QA log. QA guidance and templates can be found here: https://dhexchange.kahootz.com/connect.ti/Testanalysts/view?objectId=13590448
+
+A sample QA template is also provided below:
+
+
 # Quality assurance information
 
 Complete this template with any information about the model or analysis not previously stored in this repository. Please refer to relevant Quality Assurance procedures and standards.
