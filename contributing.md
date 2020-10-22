@@ -4,7 +4,7 @@ Each repository in DataS-DHSC should contain a README file and a QA log. QA guid
 
 A sample QA template is also provided below.
 
-In most cases, the master branch should only contain work that has been through a full QA process. An exception to this is if you need to set up a github action on the master branch (e.g. periodically scraping data) before the work is finished. If the master branch does not contain fully QAd work, then the QA log file should clearly reflect the current state of QA.
+In most cases, the master branch should only contain work that has been through a full QA process. An exception to this is if you need to set up a github action on the master branch (e.g. periodically scraping data) before the work has been fully QAd. If the master branch does not contain fully QAd work, then the QA log file should clearly reflect the current state of QA.
 
 
 # Quality assurance information
