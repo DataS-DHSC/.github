@@ -16,6 +16,9 @@ A clear and concise description of what you want to happen/the output you want.
 **Key requirements for the ticket**
 Assuming they're not big enough to warrant their own issue/ticket, provide clear and concise descriptions of any specific tasks required as part of the ticket. Use bullet points for clarity.
 
+**Dependencies**
+Provide a description of any dependencies for the ticket, including links to the relevant issue/ticket where appropriate and/or to the data required, and (if known) estimated dates for completion.
+
 **Deadline**
 If there is a specific deadline, note the date. If it is less precise than that, give a time frame (e.g. approximately two weeks).
 
