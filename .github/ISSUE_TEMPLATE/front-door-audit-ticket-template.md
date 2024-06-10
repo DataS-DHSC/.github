@@ -13,4 +13,5 @@ As a first step, we can collect links to all our resources into one document her
 * Is the resource relevant to the community, should it be included in the final Wiki?
 * What actions are associated with this resource?
 * Are there better resources elsewhere?
+
 In the document linked above, please create a new sheet for the folder/ area mentioned in the ticket title, and examine all documents contained in this area, filling out the template on the “Info” page.
